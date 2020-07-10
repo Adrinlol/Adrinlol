@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Adrinlol/Adrinlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Alt Text](https://i.pinimg.com/originals/2b/3d/8c/2b3d8c8ed732b5859dcbd6e3915d92a4.gif)
