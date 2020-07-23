@@ -1,12 +1,12 @@
-<div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
+### Lasha Kakabadze - @Adrinlol
+
+Hi I'm Lasha - a Frontend Developer specialized in creating user-facing features using React.js. Creator and maintainer of serveral JavaScript libraries and Open-source contributor.
+
+📫 Get in touch
+- [Twitter](https://twitter.com/Adrinlolx)
+- [LinkedIn](https://www.linkedin.com/in/lasha-kakabadze)
+- [Medium](https://medium.com/@lashakakabadze)
+
+☕ Support me
+- [BMC](https://www.buymeacoffee.com/adrinlol)
+- [PayPal](https://paypal.me/kakaba)
