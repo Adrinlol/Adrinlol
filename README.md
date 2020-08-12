@@ -10,3 +10,4 @@ Hi I'm Lasha - a Frontend Developer specialized in creating user-facing features
 ☕ Support me
 - [BMC](https://www.buymeacoffee.com/adrinlol)
 - [PayPal](https://paypal.me/kakaba)
+- [Patreon](https://www.patreon.com/adrinlol)
