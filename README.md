@@ -25,6 +25,7 @@ Hi I'm Lasha - Frontend Developer specialized in creating user-facing features u
 ## 🖖 Get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasha-kakabadze/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Adrinlolx)
+[![Upwork Badge](https://img.shields.io/badge/upwork-32cd32?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e9d53a899f106f0d)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:l.qqbadze@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Adrinlolx)
 [![Medium Badge](https://img.shields.io/badge/medium-333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lashakakabadze)
