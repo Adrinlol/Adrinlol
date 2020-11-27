@@ -18,6 +18,7 @@ Hi I'm Lasha - Frontend Developer specialized in creating user-facing features u
 ## 📜 Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Free React landing page template](https://dev.to/adrinlol/free-react-landing-page-template-1f9h)
 - [My first Open Source project](https://dev.to/adrinlol/my-first-open-source-project-4f2c)
 - [Setting up and deploying a Twitter app from scratch](https://medium.com/swlh/setting-up-and-deploying-a-twitter-app-from-scratch-twitter-bot-article-8b6798d68a16)
 - [Ace your JavaScript Interview Questions](https://medium.com/swlh/ace-your-javascript-interview-7a69694fe912)
