@@ -10,9 +10,9 @@ Hi I'm Lasha - Frontend Developer specialized in creating user-facing features u
 
 ## 🚀 Some of my projects
 
-- [LinkedIn JavaScript Assessment Answers](https://github.com/Adrinlol/LinkedInJavaScriptAssessment)
+- [Free React landing page template](https://github.com/Adrinlol/create-react-app-adrinlol)
 - [javascript-color-gradient](https://github.com/Adrinlol/javascript-color-gradient)
-- [CRA Template](https://github.com/Adrinlol/create-react-app-adrinlol)
+- [LinkedIn JavaScript Assessment Answers](https://github.com/Adrinlol/LinkedInJavaScriptAssessment)
 - [JavaScriptGuide](https://github.com/Adrinlol/JavaScriptGuide)
 
 ## 📜 Latest blog posts
