@@ -31,3 +31,7 @@ Hi I'm Lasha - Frontend Developer specialized in creating user-facing features u
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:l.qqbadze@gmail.com)](mailto:l.qqbadze@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Adrinlolx)
 [![Medium Badge](https://img.shields.io/badge/medium-333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lashakakabadze)
+
+
+## ☕ Buy me a coffee
+[![Patreon Badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dadrinlol%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/adrinlol)
