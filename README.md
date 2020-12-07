@@ -2,7 +2,7 @@
 
 ## 🐟 Lasha Kakabadze - @Adrinlol
 
-Hi I'm Lasha - Frontend Developer specialized in creating user-facing features using React.js. Creator and maintainer of serveral JavaScript libraries and open-source contributor.
+Hi I'm Lasha - Frontend Developer specialized in creating user-facing features using React.js. Creator and maintainer of several JavaScript libraries and open-source contributor.
 
 ## 🛠️ Which tools do I use?
 
