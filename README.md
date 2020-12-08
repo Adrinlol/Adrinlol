@@ -1,12 +1,6 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=adrinlol&show_icons=true&theme=dracula">
-
 ## 🐟 Lasha Kakabadze - @Adrinlol
 
 Hi I'm Lasha - Frontend Developer specialized in creating user-facing features using React.js. Creator and maintainer of several JavaScript libraries and open-source contributor.
-
-## 🛠️ Which tools do I use?
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrinlol&layout=compact)
 
 ## 🚀 Some of my projects
 
