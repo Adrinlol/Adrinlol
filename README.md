@@ -1,4 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Adrinlol&show_icons=true&theme=dracula">
 
 ## 🐟 Lasha Kakabadze - @Adrinlol
 
