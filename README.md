@@ -1,5 +1,5 @@
 
-## 🐟 Lasha Kakabadze - @Adrinlol
+## Lasha Kakabadze - @Adrinlol
 
 Hi, I'm [Lasha](https://www.adrinlol.com) - Passionate Front-end Developer with 2 years of experience blending the design with programming skills to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. 
 
