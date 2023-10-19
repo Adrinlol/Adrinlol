@@ -20,6 +20,3 @@ While you're here, check out my [personal portfolio](https://www.adrinlol.com).
 - [How to send Email in React without SMTP Server](https://www.adrinlol.com/blog/how-to-send-email-in-react-without-smtp-server)
 - [Setting up and deploying a Twitter app from scratch](https://www.adrinlol.com/blog/setting-up-and-deploying-a-twitter-app-from-scratch-%E2%80%94-twitter-bot-article)
 - [Ace your JavaScript Interview Questions](https://www.adrinlol.com/blog/ace-your-javascript-interview)
-
-## Support me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y7H8BNJ)
