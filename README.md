@@ -11,7 +11,6 @@ While you're here, check out my [personal portfolio](https://www.adrinlol.com).
 
 - [Landy - React Template](https://github.com/Adrinlol/landy-react-template)
 - [JavaScript Color Gradient](https://github.com/Adrinlol/javascript-color-gradient)
-- [LinkedIn JavaScript Assessment Answers](https://github.com/Adrinlol/linkedin-javascript-assessment)
 - [JavaScript Guide](https://github.com/Adrinlol/javascript-guide)
 
 ## Latest blog posts
