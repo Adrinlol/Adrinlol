@@ -18,5 +18,3 @@ While you're here, check out my [personal portfolio](https://www.adrinlol.com).
 - [A Survival Guide for Freelance React Developers: Time Management and Productivity Tips](https://www.adrinlol.com/blog/a-survival-guide-for-freelance-react-developers-time-management-and-productivity-tips)
 - [Growing as a Developer Without a Mentor: My Experience as a Junior at a Small Startup](https://www.adrinlol.com/blog/growing-as-a-developer-without-a-mentor-my-experience-as-a-junior-at-a-small-startup)
 - [How to send Email in React without SMTP Server](https://www.adrinlol.com/blog/how-to-send-email-in-react-without-smtp-server)
-- [Setting up and deploying a Twitter app from scratch](https://www.adrinlol.com/blog/setting-up-and-deploying-a-twitter-app-from-scratch-%E2%80%94-twitter-bot-article)
-- [Ace your JavaScript Interview Questions](https://www.adrinlol.com/blog/ace-your-javascript-interview)
