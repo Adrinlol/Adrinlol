@@ -1,7 +1,7 @@
 
 ## Lasha Kakabadze - @Adrinlol
 
-Hi, I'm [Lasha](https://www.adrinlol.com) - Passionate Senior React Developer with 4 years of experience blending the design with programming skills to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. 
+Hi, I'm [Lasha](https://www.adrinlol.com) - Senior React Developer with over 6 years of experience blending the design with programming skills to deliver an immersive and engaging user experience through efficient website development, proactive feature optimization, and relentless debugging. 
 
 Creator and maintainer of several JavaScript libraries and open-source contributor.
 
